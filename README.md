@@ -1,16 +1,30 @@
-# quoteapp
+<img align="left" src="https://raw.githubusercontent.com/NazeemNato/Flutter-Random-Quote-App/master/android/app/src/main/res/mipmap-mdpi/launcher_icon.png" alt=""> 
 
-A new Flutter project.
+# QuotApp
 
-## Getting Started
+*Quotapp* provides you approx 5000+  Motivational & Inspirational quotes by famous authors, celebrities.
+you can share the quotes with your friends by tap on copy button
 
-This project is a starting point for a Flutter application.
+- Written flutter. 
+- open source
 
-A few resources to get you started if this is your first Flutter project:
+[![Download Latest version ](http://3.bp.blogspot.com/-WGQbu1DZg6A/VNRknAPOe8I/AAAAAAAAFEg/h5kJ30cCMBw/s1600/download%2Bapk.png)](https://github.com/NazeemNato/Flutter-Random-Quote-App/blob/master/apk/QuotApp%20V1.0.0.apk?raw=true)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Current features
+- Randomly created a quote while opening app
+- Copy to clipboard avilable
+- Offline work
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Next updat(V1.0.1)
+- Daily quotes notification on 5 am
+- Social media share
+- author category
+- save your quotes
+
+
+# ScreenShots
+
+<img align="left" src="https://raw.githubusercontent.com/NazeemNato/Flutter-Random-Quote-App/master/screenshot/1.png" width="225" height="400" alt="">
+<img align="left" src="https://raw.githubusercontent.com/NazeemNato/Flutter-Random-Quote-App/master/screenshot/2.png" width="225" height="400" alt="">
+
+
